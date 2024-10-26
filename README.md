@@ -35,6 +35,7 @@ I'm a software developer who enjoys turning complex problems into simple, beauti
   - 🏥 [Hospital Management System](https://github.com/C12-SereenHanandeh/MERAKI_Academy_Project_4): A full-stack healthcare solution.
   - 🧑‍💼 [Admin Dashboard](https://github.com/C12-SereenHanandeh/MERAKI_Academy_Project_4/blob/main/frontend/src/pages/AdminDashboard.js): Customizable dashboard with stats and visual data insights.
 
+---
 
 ### 📊 GitHub Stats
 
@@ -65,7 +66,7 @@ I'm a software developer who enjoys turning complex problems into simple, beauti
 <p align="left">
 <a href="https://linkedin.com/in/yourusername" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" /></a>
 <a href="https://x.com/HanandehSe69200" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" height="40" width="40" /></a>
-<a href="sereenesam6@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" height="40" width="40" /></a>
+<a href="mailto:sereenesam6@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" height="40" width="40" /></a>
 </p>
 
 ---
