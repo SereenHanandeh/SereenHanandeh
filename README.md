@@ -1,10 +1,7 @@
 <h1 align="center">Hi there 👋, I'm [Your Name]</h1>
 <h3 align="center">Full Stack Developer | Backend Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?SereenHanandeh
-=SereenHanandeh
-&label=Profile%20views&color=0e75b6&style=flat" alt="SereenHanandeh
-" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?SereenHanandeh=SereenHanandeh&label=Profile%20views&color=0e75b6&style=flat" alt="SereenHanandeh" /> </p>
 
 ---
 
@@ -40,7 +37,7 @@ I'm a software developer who enjoys turning complex problems into simple, beauti
 
 - **GitHub Stats**:
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?SereenHanandeh=SereenHanandeh&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?SereenHanandeh=SereenHanandeh&layout=compact&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?SereenHanandeh=SereenHanandeh&layout=compact&langs_count=8&theme=radical)
 
 ---
 
