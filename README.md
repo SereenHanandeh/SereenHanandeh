@@ -12,7 +12,7 @@ I'm a software developer who enjoys turning complex problems into simple, beauti
 - 🌱 **Learning**: Advanced React, Node.js, and cloud services
 - 🔍 **Looking for Opportunities**: Backend development, full-stack projects, open-source contributions
 - 📫 **Contact**: [sereenesam6@gmail.com](sereenesam6@gmail.com)
-- 👨‍💻 **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
+
 
 ---
 
@@ -64,7 +64,7 @@ I'm a software developer who enjoys turning complex problems into simple, beauti
 ### 🌐 Let's Connect
 
 <p align="left">
-<a href="https://linkedin.com/in/yourusername" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/sereen-hanandeh-3ba843334" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" /></a>
 <a href="https://x.com/HanandehSe69200" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" height="40" width="40" /></a>
 <a href="mailto:sereenesam6@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" height="40" width="40" /></a>
 </p>
