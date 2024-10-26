@@ -35,7 +35,9 @@ I'm a software developer who enjoys turning complex problems into simple, beauti
   - 🏥 [Hospital Management System](https://github.com/C12-SereenHanandeh/MERAKI_Academy_Project_4): A full-stack healthcare solution.
   - 🧑‍💼 [Admin Dashboard](https://github.com/C12-SereenHanandeh/MERAKI_Academy_Project_4/blob/main/frontend/src/pages/AdminDashboard.js): Customizable dashboard with stats and visual data insights.
 
-- **GitHub Stats**:
+
+### 📊 GitHub Stats
+
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SereenHanandeh&show_icons=true&theme=radical)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SereenHanandeh&layout=compact&langs_count=8&theme=radical)
 
