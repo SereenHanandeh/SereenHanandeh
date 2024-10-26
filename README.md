@@ -13,10 +13,22 @@ I'm a software developer who enjoys turning complex problems into simple, beauti
 - 🔍 **Looking for Opportunities**: Backend development, full-stack projects, open-source contributions
 - 📫 **Contact**: [sereenesam6@gmail.com](sereenesam6@gmail.com)
 
+  
+
+---
+
+### 🎯 Goals for the Year
+
+- Contribute to open-source projects and collaborate with other developers.
+- Complete advanced certifications in backend development.
+- Share knowledge through blogging and tutorials.
+
+
 
 ---
 
 ### 💻 Tech Stack & Skills
+
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/> 
