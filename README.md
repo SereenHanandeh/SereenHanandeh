@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm [Your Name]</h1>
 <h3 align="center">Full Stack Developer | Backend Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?SereenHanandeh=SereenHanandeh&label=Profile%20views&color=0e75b6&style=flat" alt="SereenHanandeh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SereenHanandeh&label=Profile%20views&color=0e75b6&style=flat" alt="SereenHanandeh" /> </p>
 
 ---
 
@@ -36,8 +36,8 @@ I'm a software developer who enjoys turning complex problems into simple, beauti
   - 🧑‍💼 [Admin Dashboard](https://github.com/C12-SereenHanandeh/MERAKI_Academy_Project_4/blob/main/frontend/src/pages/AdminDashboard.js): Customizable dashboard with stats and visual data insights.
 
 - **GitHub Stats**:
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?SereenHanandeh=SereenHanandeh&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?SereenHanandeh=SereenHanandeh&layout=compact&langs_count=8&theme=radical)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SereenHanandeh&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SereenHanandeh&layout=compact&langs_count=8&theme=radical)
 
 ---
 
